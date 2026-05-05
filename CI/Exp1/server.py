@@ -1,6 +1,3 @@
-#Name of Student: Vidhi Rane
-#Div: C   Roll No: 11
-#PRN No:72258301L
 from xmlrpc.server import SimpleXMLRPCServer
 
 def factorial(n):
